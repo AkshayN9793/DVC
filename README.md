@@ -26,4 +26,18 @@ touch README.MD
 
 ```
 pip install -r requirements.tx
+
 ```
+
+```
+dvc init
+```
+
+```
+dvc repro
+````
+
+```
+dvc dag
+```
+
