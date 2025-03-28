@@ -23,3 +23,7 @@ touch .gitignore
 ```
 touch README.MD
 ```
+
+```
+pip install -r requirements.tx
+```
